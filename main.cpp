@@ -5,8 +5,10 @@ using namespace std;
 
 int main()
 {
-  ll a,b;
-  cin>>a>>b;
-  cout<<"Answer comes out to be : "<<(a*b)<<endl;
-  return 0;
+  ll a,b,c,d,e;
+  cin>>a>>b>>c>>d;
+  
+  cout<<"Answer should to be : "<<(a*b*d)<<endl;
+  
+  return -1;
 }
